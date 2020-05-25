@@ -1,0 +1,1198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="zh-CN"><seg>劳务合同（2008版）
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Labor Service Contract (2008)
+
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>甲方：上海智淳企业管理有限公司 </seg></tuv>
+<tuv xml:lang="en-US"><seg>Party A: Pure Intelligence Business Co.Ltd
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>（以下简称“甲方”）
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>(hereinafter referred to as “Party A”)
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>乙方：_______________________________ </seg></tuv>
+<tuv xml:lang="en-US"><seg>Party B:__________________________
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>（以下简称“乙方”）
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>(hereinafter referred to as “Party B”)
+
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>根据《中华人民共和国合同法》、《中华人民共和国劳动法》和《中华人民共和国劳动合同法》等有关法律、法规的规定，本着平等互利的原则，甲、乙双方经友好协商，就乙方使用甲方员工等事宜，达成本劳务合同（以下简称“本合同”）。
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>According to the Contract Law of the People’s Republic of China, Labor Law of the People’s Republic of China, Labor Contract Law of the People’s Republic of China and other relevant laws and regulations, and in line with the principle of equality and mutual benefits, the two parties enter into this Labor Service Contract (hereinafter referred to as “this Contract”) through friendly consultation with regard to Party A’s labor service for Party B.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>第一章	总则
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Chapter 1 General Provisions
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>第一条	适用
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Article 1 Application </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>甲、乙双方有关乙方使用甲方员工等事宜，适用本合同。
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>This Contract applies to the related issues regarding Party B’s using Party A’s labor service.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>第二条	适用法律
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Article 2 Applicable Laws </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>本合同，以及与本合同有关的一切事宜，一律适用中华人民共和国的法律、法规。</seg></tuv>
+<tuv xml:lang="en-US"><seg>This Contract and related matters shall be subject to laws and regulations of the People’s Republic of China. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>因任何原因，包括但不限于因法律法规变化，致使本合同条款与中华人民共和国法律、法规不一致时，均应以中华人民共和国法律、法规为准。
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>In case of any discrepancy between the articles of this Contract and the laws and regulations of the People’s Republic of China for any reasons, including but not limited to the change of laws and regulations, the latter shall prevail.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>第三条	定义
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Article 3 Definitions
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>甲方员工：指乙方需要使用的，由甲方依法办理相关手续，派遣到乙方的中国公民。 </seg></tuv>
+<tuv xml:lang="en-US"><seg>Party A’s Staff: Party A’s Staff refer to any Chinese citizens needed by Party B and dispatched by Party A to Party B after Party A has handled relevant procedures in accordance with law.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>附件：指甲、乙双方另行签订的所有关于本合同的补充协议或相关约定等；  </seg></tuv>
+<tuv xml:lang="en-US"><seg>Attachments: Attachments refer to all supplementary or related agreements signed by the two parties; t </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>管理费：指乙方使用甲方员工而应支付给甲方的各种费用的总和。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Management Fee: The total sum of all charges and expenses that Party B should pay to Party A for the use of Party A’s Staff. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>一般包括： </seg></tuv>
+<tuv xml:lang="en-US"><seg>It generally covers:
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>乙方为承担甲方员工的社会保险和住房公积金而支付的费用； </seg></tuv>
+<tuv xml:lang="en-US"><seg>Social insurances and accumulated housing fund borne by Party B for Party A’s Staff;
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>乙方为要求甲方向甲方员工提供福利保障、档案保管而支付的费用； </seg></tuv>
+<tuv xml:lang="en-US"><seg>Expenses of benefits and personnel file preservation that Party B requests Party A to provide for Party A’s Staff;
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>乙方为甲方提供本合同下所列服务而支付给甲方的服务费和约定的相关税收。 </seg></tuv>
+<tuv xml:lang="en-US"><seg>Service fee charged by Party A for service provided under this Contract and taxes levied by the state agreed upon by the two parties.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>工资：指乙方使用甲方员工而应支付给甲方员工的劳动报酬，具体数额应以附件所载为准。 </seg></tuv>
+<tuv xml:lang="en-US"><seg>Pay: Labor remuneration paid by Party B to Party A’s Staff for labor use, in the amount subject to the attachments hereto.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>法律：指中华人民共和国法律、法规、规章、制度、规范性文件等。
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Law(s): Any and all laws, rules, regulations, institutions, statutes and the like, of the People’s Republic of China.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg/></tuv>
+<tuv xml:lang="en-US"><seg/></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>第二章	权利和义务
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Chapter 2 Rights and Obligations
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>第四条	甲方享有的权利
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Article 4 Rights Enjoyed by Party A
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>甲方有权要求乙方为甲方的服务配合甲方拟定的流程。 </seg></tuv>
+<tuv xml:lang="en-US"><seg>Party A is entitled to request Party B to cooperate with regard to the procedures set by Party A for its service.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>甲方有权对乙方与甲方员工之间因实际使用关系所发生的争议进行调解。 </seg></tuv>
+<tuv xml:lang="en-US"><seg>Party A is entitled to conciliate between Party B and the Party A’s Staff with regard to the disputes arising from labor service.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>甲方有权对乙方侵害甲方员工合法权益的行为进行交涉并提出整改意见和要求。 </seg></tuv>
+<tuv xml:lang="en-US"><seg>Party A is entitled to negotiate with Party B and to propose suggestions and requests of rectification with regard to the infringement of lawful rights and interests of Party A’s Staff.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>甲方有权根据本合同和附件的约定，按月向乙方收取管理费。
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Party A is entitled to charge Management Fee from Party B on a monthly basis according to the stipulations in this Contract and the Attachments hereto.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>第五条	乙方享有的权利
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Article 5 Rights Enjoyed by Party B
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>乙方有权享有本合同和附件约定的由甲方提供的服务。 </seg></tuv>
+<tuv xml:lang="en-US"><seg>Party B is entitled to the service items provided by Party A according to this Contract and the Attachments hereto.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>乙方有权决定甲方员工的派遣期限，派遣期限一般不应少于2年，派遣期满乙方可以退回甲方员工，但另有约定的除外。 </seg></tuv>
+<tuv xml:lang="en-US"><seg>Party B is entitled to decide on the dispatch term of Party A’s Staff and the dispatch term shall generally not be shorter than two years. Party B may return Party A’s Staff upon the expiration of the dispatch term unless otherwise agreed by the two parties.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>乙方有权与被其使用的甲方员工另行签订协议（包括但不限于培训服务期协议、保密协议等），以约定双方的权利义务；但因此产生的一切责任，甲方不承担任何一方（即乙方或甲方员工）的连带责任。 </seg></tuv>
+<tuv xml:lang="en-US"><seg>Party B is entitled to conclude other agreements (including but not limited to Agreement on Service Term for Training, Non-disclosure Agreement and the like) with Party A’s Staff to specify rights and obligations between the two parties.. However, Party A does not bear any joint or several liabilities with either side (Party B or Party A’s Staff) arising from such agreements.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>乙方有权制定、修改或者决定有关劳动报酬、工作时间、休息休假、劳动安全卫生、保险福利、职工培训、劳动纪律以及劳动定额管理等直接涉及甲方员工切身利益的规章制度或者重大事项；但该规章制度或者重大事项在实体和程序上均不得与法律相冲突，而且应当向甲方员工公示或者告知。
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Party B is entitled to set, modify or determine rules and regulations or major issues with regard to labor remuneration, working hours, leaves and holidays, labor safety and health, insurance and benefit, training, labor discipline and labor quota management, etc. which are in direct relation to the personal interests of Party A’s Staff; however such rules, regulations or major issues shall not conflict with law in any substantive or procedural issues and shall be disclosed or notified among Party A’s Staff.
+
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>甲方履行的义务
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Article 6 Obligations to Be Performed by
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>甲方应为乙方合法使用的甲方员工依法办理相关手续。 </seg></tuv>
+<tuv xml:lang="en-US"><seg>Party A shall handle relevant procedures in accordance with law for Party A’s Staff lawfully serving Party B.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>甲方应根据本合同和附件的约定，向乙方提供各类由乙方选定的服务。 </seg></tuv>
+<tuv xml:lang="en-US"><seg>Party A shall provide selected service items for Party B according to this Contract and the Attachments hereto.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>甲方应教育甲方员工自觉遵守法律和乙方依法制定、修改或决定的规章制度或者重大事项。 </seg></tuv>
+<tuv xml:lang="en-US"><seg>Party A shall instruct Party A’s Staff to conscientiously abide by the laws and regulations of the People’s Republic of China as well as the rules and regulations or major issues set, modified or determined by Party B in accordance with law.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>甲方应当按照乙方依法确定的标准为乙方使用的甲方员工缴纳社会保险和住房公积金，或者按照上海规定缴纳综合保险。 </seg></tuv>
+<tuv xml:lang="en-US"><seg>Party A shall pay for social insurances and accumulated housing fund for Party A’s Staff who serve Party B based on the standard determined by Party B in accordance with law, or pay comprehensive insurance in accordance with the provisions of Shanghai Municipality.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>甲方可以根据乙方的合法需求协助符合条件的甲方员工办理出国（境）手续。 </seg></tuv>
+<tuv xml:lang="en-US"><seg>Party A, upon Party B’s lawful request, may assist Party A’s qualified staff in handling procedures for going overseas.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>甲方可以根据乙方的需求协助符合条件的甲方员工办理担任乙方（首席）代表的手续。 </seg></tuv>
+<tuv xml:lang="en-US"><seg>Party A, upon Party B’s request, may offer assistance to Party A’s qualified staff in handling procedures for assuming the (chief) representative of Party B.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>甲方可以为符合规定的甲方员工办理职称评定。 </seg></tuv>
+<tuv xml:lang="en-US"><seg>Party A may handle procedures of awarding professional titles for Party A’s qualified staff.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>甲方应乙方的要求，协助乙方对甲方员工造成乙方的经济损失进行追索，但甲方不对上述损失承担连带赔偿责任。
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Party A, upon the request of Party B, shall assist Party B in recovering economic losses caused by Party A’s Staff, but shall not bear joint or several liabilities for such losses.
+
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>乙方履行的义务
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Article 7 Obligations to Be Performed by Party B
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>乙方应根据本合同和附件的约定，为甲方履行服务提供必要的协助。 </seg></tuv>
+<tuv xml:lang="en-US"><seg>Party B shall provide Party A with necessary assistance for its service in accordance with this Contract and the Attachments hereto.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>乙方应根据本合同和附件的约定，每月按时足额向甲方支付管理费。 </seg></tuv>
+<tuv xml:lang="en-US"><seg>Party B shall punctually make full payment of Management Fee on a monthly basis to Party A as stipulated in this Contract and the Attachments hereto.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>乙方应尊重甲方员工的民族习惯和宗教信仰，严禁种族歧视或性别歧视。 </seg></tuv>
+<tuv xml:lang="en-US"><seg>Party B shall respect ethical custom and religious belief of Party A’s Staff. Any racial or gender discrimination is strictly forbidden.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>乙方应执行国家劳动标准，提供相应的劳动条件和劳动保护；并应承担甲方员工正常死亡的丧葬补助费、直系亲属抚恤金等责任和甲方员工工伤的责任。 </seg></tuv>
+<tuv xml:lang="en-US"><seg>Party B shall implement the labor standard of the state, provide relevant labor conditions and labor protection; Party B shall also bear funeral allowance, relief compensation to immediate family members and the like in the case of ordinary death of Party A’s Staff, and bear liabilities for the work-related injury of Party A’s Staff.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>乙方应根据法律规定依法执行工时制度和支付加班费。 </seg></tuv>
+<tuv xml:lang="en-US"><seg>Party B shall implement a working-hour system and make overtime payment in conformity with the provisions of law.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>乙方应根据法律给予女性甲方员工特殊劳动保护，保障其在孕期、产期和哺乳期的合法权益。 </seg></tuv>
+<tuv xml:lang="en-US"><seg>Party B shall offer special labor protection for Party A’s female staff and ensure their legal rights and interests in pregnancy, maternity and nursing periods in conformity with the provisions of law.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>乙方如果直接支付报酬的，包括但不限于工资、加班费、绩效奖金等，应当及时足额支付并依法代扣代缴个人所得税。 </seg></tuv>
+<tuv xml:lang="en-US"><seg>If Party B directly pays Party A’s Staff labor remuneration, including but not limited to pay, overtime, performance bonus and the like, Party B shall pay the remuneration to Party A’s Staff in full and withhold and pay the full amount of individual income tax for Party A’s Staff in a timely manner according to law.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>乙方应根据法律规定执行带薪休假制度。 </seg></tuv>
+<tuv xml:lang="en-US"><seg>Party B shall implement the paid annual leave policy stipulated by Law.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>乙方可以与甲方员工书面约定，乙方聘用甲方员工每满一公历年，在年终由乙方向甲方加付一个月的工资作为年终双薪。 </seg></tuv>
+<tuv xml:lang="en-US"><seg>When Party A’s Staff have provided service to Party B for each calendar year, Party B and Party A’s Staff may agree in writing that Party B shall offer an extra one-month pay to such staff at the end of such a calendar year.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>因乙方使用、退回甲方员工，或因乙方与甲方员工发生争议，而引起甲方与甲方员工发生劳动争议仲裁或诉讼，或被行政处罚的，乙方应协助甲方参加仲裁、诉讼、行政复议。</seg></tuv>
+<tuv xml:lang="en-US"><seg>In case of any disputes arising from Party B’s use of Party A’s labor service, the return of the Party A’s Staff or the dispute between Party B and Party A’s Staff which leads to a labor dispute arbitration or a lawsuit between them, or, an administrative penalty against Party A, Party B shall assist Party A in participating in such arbitration, lawsuit or administrative reconsideration. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>若甲方因前述仲裁或诉讼或行政处罚导致需支付任何费用，包括但不限于罚款、赔偿、仲裁费、诉讼费、执行费等，均应由乙方承担，但争议或处罚系甲方过错造成的除外。
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>If Party A shall pay any charges for such arbitration, lawsuit or administrative penalty, Party B shall bear all cost including but not limited to penalty, damages, arbitration fee, cost of action, and expense of execution , unless the said dispute or the penalty is due to Party A’s fault.
+
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>双方共同享有的权利和共同履行的义务
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Article 8 Rights and Obligations Shared by Both Parties
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>本合同以及本合同履行过程中与之相关的一切文件，包括但不限于合同的草稿、附件、报价、往来传真信函等，均为甲、乙双方之商业秘密，除因法定事由并事先通知对方外任何一方均不得以任何形式向第三方泄漏，否则应承担相应之违约责任和经济责任。 </seg></tuv>
+<tuv xml:lang="en-US"><seg>This Contract and the other related documents made in the process of performing this Contract, including but not limited to draft of this Contract, the Attachments, quotations, faxes and letters, are trade secrets of the two parties and shall not be disclosed to a third party by either party in any form, unless for lawful reasons and with prior notice to the other party. Otherwise, the disclosing party shall bear liabilities for breach of contract and economic compensation accordingly.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>任何一方有权对另一方违反本合同的行为进行交涉并提出整改意见和要求，违约方有义务赔偿因此造成的一切损失。  </seg></tuv>
+<tuv xml:lang="en-US"><seg>If one party breaches this Contract, the other party shall be entitled to negotiate with the breaching party and to propose suggestions and requests of rectification. The breaching party shall compensate for all the losses accordingly.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>任何一方有权要求另一方根据中华人民共和国新制定的法律、法规、规章执行并变更本合同的相应条款；</seg></tuv>
+<tuv xml:lang="en-US"><seg>Either party is entitled to require the other party to implement and modify articles of this Contract according to the newly enacted or altered laws, regulations and rules of the People’s Republic of China. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>另一方应当执行。 </seg></tuv>
+<tuv xml:lang="en-US"><seg>Such requirement shall be implemented.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>任何一方应根据另一方的需要，提供相应的法律、法规、规章。 </seg></tuv>
+<tuv xml:lang="en-US"><seg>Either party shall, as required by the other party, provide relevant laws, regulations and rules.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>任何一方拟变更任何工商登记事项，或者任何一方搬迁办公地址的，均应提前十五日以书面形式通知另一方，如因未及时通知而造成对方损失的，变更方应承担相应之经济赔偿责任。 </seg></tuv>
+<tuv xml:lang="en-US"><seg>In case that either party changes industrial &amp; commercial registration or business address, the party in change shall inform the other party in writing 15 days in advance. If it causes any loss to the other party for failing to do so, the party in change shall bear the liabilities for economic compensation accordingly.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>任何一方变更名称、法定代表人、主要负责人或投资人等事项，不影响本合同的履行；如果乙方发生分立、合并的，本合同应由承继乙方权利义务的单位继续履行。
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>The change of either party regarding name, legal representative, person in charge, investor and the like, shall not impact the performance of this Contract; If Party B undertakes split or merger, the successor to Party B’s rights and obligations shall continue to perform this Contract.
+
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>第三章	甲方员工的使用、解除使用
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Chapter 3 Use and Return of Party A’s Staff
+
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>第九条	甲方员工的使用
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Article 9 Use of Party A’s Staff
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>乙方使用甲方员工，应在本合同签订前向甲方提供乙方在中国境内有效的工商登记证明文件。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Party B, prior to the conclusion of this Contract, shall provide Party A with documents evidencing its valid industrial and commercial registration in China so as to use Party A’s labor service. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>乙方应对前述文件的真实性和有效性负责。 </seg></tuv>
+<tuv xml:lang="en-US"><seg>Party B shall be responsible for the authenticity and validity of such documents.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>甲方员工的派遣期限以附件中约定的或者乙方书面通知的起始日期开始，该派遣期限一般不应少于两年；如非因甲方原因致使使用起始日期无法按照乙方确定的日期为准的，以甲方确定的日期为起始日期，派遣期限应相应顺延。 </seg></tuv>
+<tuv xml:lang="en-US"><seg>The dispatch term of Party A’s Staff shall commence from the date as stipulated in the Attachments hereto or in the written notice issued by Party B. Normally such dispatch term shall not be shorter than two years; If the start date of actual employment could not match the date determined by Party B due to reasons beyond Party A’s control, the start date shall be determined by Party A and the dispatch term shall be postponed accordingly.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>对于乙方初次使用的甲方员工，乙方可以要求甲方依法设置试用期，但有规定不能设置的除外。
+
+
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Party B may require Party A to set the probation period for Party A’s Staff who serves Party B for the first time in accordance with law unless otherwise legally stipulated.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>9.4甲方员工在乙方连续工作满十年或甲方员工在乙方工作期间与甲方连续签订两次固定期限劳动合同后，乙方继续使用甲方员工的，甲方应与该甲方员工签订无固定期限劳动合同，由乙方承担无固定期限劳动合同中根据法律规定甲方应当承担的所有义务。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Party A and Party B agree that Party A shall conclude non-fixed labor contracts with Party A’s Staff if Party A’s Staff have served Party B continuously for ten years or over and are still serving Party B, or have continuously concluded two fixed-term labor contracts with Party A during service in Party B and Party B continues to use Party A’s Staff’s labor service. Party B shall bear all liabilities stipulated by laws and regulations related to non-fixed labor contract. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>乙方根据劳务合同和附件的约定退回该甲方员工的，除需要向甲方承担本合同约定的责任外还应当承担退回甲方员工后应当由甲方向甲方员工承担的责任，包括但不限于支付劳动报酬、缴交社会保险和住房公积金、工伤医疗等经济责任。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Should Party B return Party A’s Staff in accordance with this Contract and its Attachments, in addition to the obligations agreed on in this Contract, Party B shall assume Party A’s economic liabilities to Party A’s Staff, including but not limited to labor remuneration, social insurances, accumulated housing fund, work-related injury and medical treatment. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>(乙方在初次接受该甲方员工的派遣时该甲方员工已经与甲方签订无固定期限劳动合同的除外。)
+
+
+
+
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>(Cases in which Party A has concluded non-fixed labor contract with Party A’s Staff before Party B uses Party A’s Staff for the first time shall be excluded.)
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>9.5 乙方使用甲方员工，应当在使用前如实告知甲方员工录用条件、工作内容、工作要求、工作条件、工作地点、职业危害、安全生产状况、劳动报酬，以及甲方员工要求了解的其他情况。
+
+
+
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Party B before using Party A’s Staff shall truthfully inform Party A’s Staff of their work contents, work requirements, work conditions, work locations, occupational hazards, conditions of production safety, labor remunerations, and other information Party A’s Staff require to know.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>9.6 乙方使用甲方员工，甲方应提供的服务和办理的手续，以及乙方应提供的协助等相关事宜，除本合同约定的内容外，均具体以附件为准。
+
+
+
+
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Issues with regard to the service to be provided and procedures to be handled by Party A as well as the assistance to be supplied by Party B shall be determined in accordance with the Attachments hereto, unless they have been stipulated in this Contract.
+
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>甲方员工的解除使用
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Article 10 Dismissal of Party A’s Staff
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>1 甲方员工有下列情形之一的，乙方可以解除使用关系，将甲方员工退回甲方，但应当提前以书面形式通知甲方和甲方员工：
+
+
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Under any of the following situations on  the side of Party A’s Staff, Party B may rescind the labor service relationship and return such staff to Party A with a prior notice in writing to both Party A and Party A’s Staff:
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>在试用期间被证明不符合录用条件的；  
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Proved not to meet the  recruitment requirements during the probation period;
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>严重违反乙方的规章制度的； 
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Seriously violates Party B’s rules and  regulations;
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>严重失职，营私舞弊，给乙方造成重大损害的；  
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Seriously neglects his/her duty, practices  favoritism and irregularities, and causes great loss to Party B;
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>同时与其他用人单位建立劳动关系，对完成乙方的工作任务造成严重影响，或者经乙方提出，拒不改正的；
+
+
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Establishes labor relationship with any  other employer at the same time and causes serious impact upon the performance of its duty to Party B, or refuses to make any rectification upon the request of Party B;
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>5以欺诈、胁迫的手段或者乘人之危，使乙方在违背真实意思的情况下建立或者变更与其的使用关系的；
+
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Induces Party B to enter into or change  labor service relationship with him/her against Party B’s true intention by fraud or duress or by taking advantage of Party B;
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>10.1.6 被依法追究刑事责任的。
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Being investigated for criminal liabilities.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>2 甲方员工有下列情形之一的，乙方可以解除使用关系，将甲方员工退回甲方，但应当至少提前三十五日以书面形式通知甲方和甲方员工：
+
+
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Under any of the following situations on the side of Party A’s Staff, Party B may rescind the labor service relationship and return such staff to Party A with a written notice at least 35 days in advance to both Party A and Party A’s Staff:
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>甲方员工患病或者非因工负伤，在规定的医疗期满后不能从事原工作，也不能从事由乙方另行安排的工作的；  
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Being Sick or wounded for non-work-related reasons, and when the medical treatment period expires he/she still remains unable to resume work or any other work arranged by Party B;
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>甲方员工不能胜任工作，经过培训或者调整工作岗位，仍不能胜任工作的。   
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Proved incompetent for its own job, and after training or change of position, still fail to be qualified or competent in that regard. 
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>乙方使用甲方员工时所依据的客观情况发生重大变化，致使乙方无法继续使用甲方员工，且乙方与甲方员工未能就变更使用关系协商一致的。
+
+
+
+
+
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>No agreement on modification of the labor service relationship can be reached through consultation by Party B and Party A’s Staff when the objective conditions taken as the basis for the Party A’s Staff serving Party B have substantially changed and Party B can no longer use Party A’s Staff’s labor service   </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>乙方未依约定提前通知的，应当向甲方支付相当于甲方员工一个月工资的违约金，标准按本合同11.4的约定执行。
+
+
+
+
+
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>In case Party B fails to notify Party A in advance according to the Contract, Party B shall pay penalty at the rate of Party A’s Staff’s one month wage to Party A. The rate shall be determined in accordance with Article 11.4 of this Contract 
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>10.3 除本条10.1约定的情形外，甲方员工有下列情形之一的，乙方不得解除使用关系退回甲方员工：
+
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Unless otherwise stipulated in 10.1, under  any one of the following situations on the side of Party A’s Staff, Party B shall not rescind the labor service relationship or return Party A’s Staff:
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>从事接触职业病危害作业的甲方员工未进行离岗前职业健康检查，或者疑似职业病病人在诊断或者医学观察期间的；      
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Engaging in operations with exposure to occupational disease hazards but have not undergone a pre-departure occupational health check-up, or, are suspected of having contracted an occupational disease and are still to be diagnosed or under medical observation;
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>在乙方患职业病或者因工负伤并被确认丧失或者部分丧失劳动能力的；   
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Confirmed as having lost or partially lost its capacity to work due to an occupational disease or a work-related injury;
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>患病或者非因工负伤，在规定的医疗期内的；  
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Contracting an illness or sustained a non-work-related injury, and the prescribed medical period has not expired;
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>女职工在孕期、产期、哺乳期的；   
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Female staff in pregnancy, maternity or nursing period;
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>在乙方连续工作满十五年，且距法定退休年龄不足五年的；  
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Having been working for Party B continuously for 15 years or over, and are less than 5 years away from legal retirement age;
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>法律、行政法规规定的其他情形。
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Other circumstances provided by the laws or administrative regulations.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>10.4 使用的顺延  </seg></tuv>
+<tuv xml:lang="en-US"><seg>Extension of Labor Use  </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>如果乙方以派遣期限届满退回甲方员工时，甲方员工有本条10.3约定的情形之一，且不属于本条10.1情形的，乙方应顺延其使用关系至相应的情形消失后方可退回。
+
+
+
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>When Party B intends to return Party A’s Staff upon expiration of dispatch term, if Party A’s Staff are under any one of the situations provided in 10.3 and are not subject to any of the situations listed in 10.1, Party B shall extend the labor service relationship and shall not return Party A’s Staff until the disappearance of the particular situation.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>10.5 甲方可以依法与甲方员工解除或终止劳动合同关系，但应提前通知乙方。
+
+
+
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Party A may rescind or terminate the labor  service relationship with Party A’s Staff according to law, however a prior notice to Party B is necessary.
+
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>退回补偿
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Article 11 Return Compensation
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>除本合同10.1约定的情形外，乙方将甲方员工退回甲方的，均应向甲方支付退回补偿。  
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Except for the circumstances specified in  Article 10.1 hereof, Party B shall pay Party A return compensation upon returning Party A’s Staff to Party A.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>退回补偿按甲方员工在乙方工作的年限，按每满一年支付一个月工资的标准向甲方支付。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Return compensation shall be paid according to the number of years Party A’s Staff has served Party B. The calculation is one month’s pay for one year service. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>六个月以上不满一年的，按一年计算；不满六个月的，向甲方支付半个月工资的退回补偿。       
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>If the actual service period is over 6 months but shorter than 1 year, it shall be calculated as 1 year. If the actual service period is shorter than 6 months, return compensation shall equal to a half-month pay.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>甲方员工月工资高于上海市上年度职工月平均工资三倍的，向甲方支付退回补偿的标准按职工月平均工资三倍的数额支付，向甲方支付退回补偿的年限最高不超过十二年。   
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>If the monthly pay of Party A’s Staff is  higher than three times of the mean monthly social salary of employees in Shanghai Municipality, the rate for the return compensation paid to Party A shall be three times of such monthly salary and not be more than 12 years.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>本条所称月工资是指甲方员工被退回前十二个月的平均工资。   
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>The “monthly pay” mentioned in this  Article means the average monthly pay of Party A’s Staff of the 12 months prior to the return.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>乙方理解并同意：如果乙方退回2008年1月1日以前已经使用的甲方员工，且2008年1月1日以后甲方尚未与甲方员工续签过劳动合同，则退回补偿应分段计算，2008年1月1日以后阶段的退回补偿可按11.</seg></tuv>
+<tuv xml:lang="en-US"><seg>Party B understands and accepts that if  Party B returns Party A’s Staff who start to serve Party B before 1 January 2008 and Party A has not renewed the Labor Contract with Party A’s Staff after 1 January 2008, the return compensation shall be calculated in two parts. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>3的约定封顶，2008年1月1日以前阶段的退回补偿，应按11.2的约定计算，不应按11.3的约定封顶。
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>The return compensation for the labor service after 1 January 2008 shall be capped according to Article 11.3 and the part before 1 January 2008 shall be calculated according to Article 11.2 and shall not be capped according to Article 11.3
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>额外退回补偿
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Article 12 Additional Return Compensation
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>乙方以10.2.1约定的情形退回甲方员工的，除应按本条11.2的约定向甲方支付退回补偿外，还需按不低于甲方员工六个月工资的标准，向甲方支付额外退回补偿；</seg></tuv>
+<tuv xml:lang="en-US"><seg>If Party B returns Party A’s Staff under any of the circumstances specified in Article 10.2.1, it has to, in addition to the return compensation stipulated in the provisions of Article 11.2 hereof, pay to Party A additional return compensation not lower than staff’s 6 months pay. If Party A’s Staff suffer from critical illness or an incurable disease, such return compensation shall be added. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>对于患重病和绝症的还应增加额外退回补偿，患重病的增加部分不低于六个月工资标准的百分之五十，患绝症的增加部分不低于六个月工资标准的百分之一百。 </seg></tuv>
+<tuv xml:lang="en-US"><seg>The added part shall not be lower than 50% for critical illness and not lower than 100% for an incurable disease, of the staff’s 6 months’ pay. 
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>乙方以10.2.3约定的情形退回甲方员工的，剩余派遣期限应计算入甲方员工在乙方的工作年限，据此计算退回补偿；并且除应按本条11.</seg></tuv>
+<tuv xml:lang="en-US"><seg>In the case that Party B returns Party A’s Staff according to Article 10.2.3, the balance of dispatch term shall be included in the service term of Party A’s Staff and the return compensation shall be calculated according to the total service term. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>2的约定向甲方支付退回补偿外，还应按剩余派遣期内应支付的该甲方员工的工资、社会保险和住房公积金，以及服务费等的总合作为额外退回补偿按月向甲方支付。
+
+
+
+
+
+
+
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>In addition to the return compensation according to Article 11.2, Party B shall pay, Party A’s Staff’s salary, social insurances, accumulated housing fund and service fee, on a monthly basis, to Party A as the additional return compensation during the balance of dispatch term.
+
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>甲方员工解除使用关系
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Article 13 Rescission of Labor Service Relationship by Party A’s Staff
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>甲方员工提前三十日以书面形式通知乙方或者甲方，可以解除使用关系；甲方员工在试用期内提前三日通知乙方或者甲方，可以解除使用关系。    
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Party A’s Staff may rescind the labor  service relationship with a 30-day prior notice in writing to Party B or Party A; Party A’s Staff, during the probation period, may rescind the labor service relationship with a 3-day prior notice to Party B or Party A.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>有下列情形之一的，甲方员工可以与乙方解除使用关系。
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Under any of the following circumstances,  Party A’s Staff may rescind the labor service relationship with Party B.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>乙方未按照约定依法提供劳动保护或者劳动条件的；  
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Party B fails to provide labor protection  or work conditions in accordance with law;
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>乙方未及时足额支付劳动报酬的；   
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Party B fails to pay in full labor remuneration in a timely manner;
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>乙方未按照约定向甲方支付为劳动者缴纳社会保险费的费用的；  
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Party B fails to make social insurance payment to Party A for Party A’s Staff in line with the agreements by the two parties;
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>乙方的规章制度违反法律、法规的规定，损害甲方员工权益的；   
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Rules and regulations of Party B violate  the provisions of laws and regulations and infringe upon the rights and interests of Party A’s Staff;
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>乙方以欺诈、胁迫的手段或者乘人之危，使甲方员工在违背真实意思的情况下与乙方建立或者变更使用关系（约定）的；  
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Party B induces Party A’s Staff to enter  into or change labor service relationship (agreement) against its true intention by fraud or duress or by taking advantage of him or her;
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>乙方以暴力、威胁或者非法限制人身自由的手段强迫甲方员工劳动的，或者乙方违章指挥、强令冒险作业危及甲方员工人身安全的，甲方员工可以立即解除使用关系，不需事先告知乙方。       
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>If Party B forces Party A’s Staff to work by resorting to violence, intimidation or illegal restriction of personal freedom, or Party B gives orders in violation of rules and regulations or forces Party A’s Staff to run risks in operation and causes danger to the personal safety of Party A’s Staff, Party A’s Staff may rescind the labor service relationship at once without prior notice to party B.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>法律、行政法规规定的其他情形。
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Other circumstances provided by the laws or administrative regulations.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>13.3 甲方员工解除使用关系的退回补偿</seg></tuv>
+<tuv xml:lang="en-US"><seg>Return Compensation for Rescission of Labor Service Relationship by Party A’s Staff.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>甲方员工依照本条13.2约定解除使用关系的，乙方应当按照本合同第11条和第12.1条约定的标准向甲方支付（额外）退回补偿。
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>If Party A’s Staff rescind the labor service relationship in line with the provisions in Article13.2, Party B shall pay to Party A (additional) return compensation in line with the standard specified in Article 11 and Article 12.1 hereof.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>费用及结算
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Chapter 4 Management Fee and Its Settlement
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>管理费的确定
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Article 14 Determination of Management Fee
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>14.1管理费根据甲、乙双方协商，确定于本合同附件，并以每月二十日前甲方标准格式统一打印的《付款通知书》为当月管理费的结算依据。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Management fee shall be defined in the Attachments hereto through consultation by the two parties. Settlement of the management fee for the current month shall be based on the Notice of Payment issued in standard printed form by Party A on 20th of each month. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>乙方如有任何变动情况，应于当月十五日前书面通知甲方，否则应承担相应之责任。
+
+
+
+
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>In case that Party B intends to change the sum of management fee, it shall notify Party A in writing before 15th of the current month, or it shall bear the liabilities accordingly.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>14.2 管理费可以人民币或者等值于人民币报价的外币结算。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Management fee can be settled in RMB or foreign currencies of equal value. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>汇率按中国人民银行当月十五日公布的汇率的中间价为准。
+
+
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>The exchange rate shall be the medial rate quoted by People’s Bank of China on 15th of the current month.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>14.3 甲、乙双方应根据政府相关规定的时间相应地调整社会保险费用和住房公积金费用；并根据政府的需要随时进行其它必须的调整。</seg></tuv>
+<tuv xml:lang="en-US"><seg>The two parties shall, in compliance with the relevant government regulations, adjust charges for social insurances and accumulated housing fund accordingly each year. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>前述的调整，不应影响派遣期限。
+
+
+
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Such adjustment of other items may occur at any time according to the policies of the government and shall not affect the dispatch term.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>管理费的支付
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Article 15 Payment of Management Fee
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>每月月底前，乙方应根据本合同及附件约定的金额向甲方支付当月的管理费，具体支付方式为以下四种：
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Prior to the end of each month, Party B shall pay Party A Management Fee of the current month at the amount specified in this Contract and its Attachments in the following four ways:
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>现金；
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Cash
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>支票；
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Check
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>转帐；
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Bank Transfer
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>电汇。
+
+
+
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Telegraphic Transfer
+
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>退回补偿的支付
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Article 16 Payment of Return Compensation  </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>除本合同另有约定外，本合同和附件约定的任何退回补偿和（或）额外退回补偿，均应在甲方员工被退回的同时向甲方一次性全额支付。
+
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Unless otherwise stipulated in this Contract, any return compensation and/or additional return compensation stipulated by this Contract and the Attachments hereto shall be paid in lump sum upon the return of Party A’s Staff.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>第五章	违约责任
+
+
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Chapter 5 Liabilities for Breach of This Contract
+
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>第十七条	普通责任
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Article 17 General Liabilities  </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>本合同的任何一方违反本合同和附件的任何约定，导致另一方遭受任何损失、处罚、索赔的，均应由违约方在未违约方提出要求时向未违约方作出足额补偿。</seg></tuv>
+<tuv xml:lang="en-US"><seg>In case that either party hereto violates any provision of this Contract and the Attachments hereto, and therefore the other party suffers any loss, penalty or claim due to this, the breaching party shall make full compensation to the non-breaching party upon request. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>任何一方依据本合同和附件的约定承担了其他违约责任的，并不能免除其作为违约方应承担的本条约定的违约责任。
+
+
+
+
+
+
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>The assumption of any other liabilities by any party for breach of this Contract in accordance with this Contract and the Attachments hereto shall not exempt such party as the breaching party from its liabilities stipulated in this Article.
+
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>第十八条	管理费迟延支付的违约责任</seg></tuv>
+<tuv xml:lang="en-US"><seg>Article 18 Liabilities Due to Delayed Payment of Management Fee </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>乙方未按本合同和附件的约定按时足额支付管理费的，除应足额支付外，还应自应付款之日起，至实际支付之日止，每日支付应付款金额2‰的滞纳金给甲方。</seg></tuv>
+<tuv xml:lang="en-US"><seg>If Party B fails to pay in full Management Fee on time as stipulated in this Contract and the Attachments hereto, it shall, in addition to full-amount payment, make a daily payment of late fee to Party A which equals 0.2% of the sum payable from due date to the date of actual payment. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>同时，因乙方未按约定支付管理费，造成甲方员工的社会保险费和（或）住房公积金未能按政府规定及时缴纳的，乙方应承担相关政府部门规定的补缴罚款或罚息。</seg></tuv>
+<tuv xml:lang="en-US"><seg>In the meantime, if Party B’s failure to pay Management Fee in accordance with this Contract results in delayed payment of social insurances (or) accumulated housing fund of Party A’s Staff according to relevant government regulations, Party B shall bear corresponding legal liabilities of fine and penalty interest. In the case that Party B fails to pay Management Fee on time, Party A is entitled to rescind this Contract according to the actual breach. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>甲方在乙方未按时支付管理费的情况发生时，有权根据乙方的违约情形选择解除本合同，乙方作为违约方应向甲方支付至本合同终止前拖欠的管理费用，并应向甲方一次性支付违约金；违约金的计算标准为：“视作每个甲方员工被退回，所应获得的退回补偿和额外退回补偿之和”加上“解除时乙方使用的每个甲方员工的工资、社会保险、住房公积金、服务费乘以至该甲方员工和甲方的劳动合同期满为止或依法顺延满为止的剩余月数之和”后的总和。
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Party B, as the breaching party, shall pay to Party A the delayed Management Fee payable accrued until the rescission of this Contract and the penalty to Party A in lump sum. (Penalty shall be the total sum of “the return compensation and additional return compensation of all Party A’s Staff serving Party B with all of them being deemed returned to Party A” plus “pay, social insurances, accumulated housing fund and service fee of all Party A’s Staff serving Party B at the time that this Contract is rescinded multiplying the balance of labor contract term (in month) or the extended labor contract term (in month) in line with law”.)
+
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>第十九条	乙方未及时足额支付劳动报酬的违约责任
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Article 19 Liabilities Due to Failure to Make Full Payment of Labor Remuneration on Time
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>因乙方未及时足额支付甲方员工劳动报酬（包括但不限于工资、加班工资等），导致甲方遭受任何处罚、索赔、损失的，均应由乙方向甲方作出足额补偿。
+
+
+
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>If Party B fails to make full payment of labor remuneration of Party A’s Staff on time (including but not limited to pay and overtime payment), and therefore Party A suffers any penalty, claim or loss, Party B shall make full compensation to Party A.
+
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>退回补偿迟延支付的违约责任
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Article 20 Liabilities Due to Delayed Payment of Return Compensation  </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>乙方未按本合同和附件的约定按时足额支付退回补偿和（或）额外退回补偿的，除应足额支付外，还应在甲方提出要求时，按应付金额百分之一百的标准向甲方加付违约金。
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>If Party B fails to pay return compensation and/or additional return compensation in full and on time in accordance with the provisions of this Contract and the Attachments hereto, it shall, in addition to full-amount payment, pay to Party A penalty, at the rate of 100% of the sum due upon request.
+
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>乙方不当解除使用甲方员工的违约责任
+
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Article 21 Liabilities Due to Unjustified Rescission of Labor Service Relationship by Party B
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>依法规定，乙方依本合同约定的情形将甲方员工退回甲方的，甲方可以依法与甲方员工解除或终止劳动合同；但如果甲方据此解除或终止劳动合同被裁判为违反法律规定的，乙方应承担以下违约责任。
+
+
+
+
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>According to law, if Party B, in line with the provisions of this Contract, returns Party A’s Staff, Party A may rescind or terminate the labor contract with such staff in accordance with the law; however, if such rescission or termination of labor contract by Party A is in violation of law, Party B shall bear the following liabilities:
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>甲方员工要求继续履行劳动合同的，乙方应同时恢复使用关系，并承担由此产生的一切甲方应承担的责任；  
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>If Party A’s Staff demand to resume performance of the labor contract, Party B shall restore the labor service relationship and bear all liabilities Party A shall assume due to this;
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>甲方员工不要求继续履行劳动合同的，应当依照本合同约定的退回补偿标准的二倍向甲方支付违约金；   
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>If Party A’s Staff do not demand to resume performance of the labor contract, Party B shall pay to Party A penalty at the rate of twice the return compensation stipulated by this Contract;
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>使用关系实际无法恢复的，乙方应承担由此产生的一切甲方应承担的责任，包括但不限于支付赔偿金、报酬、缴交社会保险和住房公积金等经济责任；并应按本合同和附件确定的服务费标准，一次性向甲方支付甲方与甲方员工剩余的劳动合同期限的服务费。
+
+
+
+
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>If the labor service relationship could not restored, Party B shall bear all liabilities Party A shall assume due to this, including but not limited to the economic liabilities of paying damages, remuneration, social insurances, accumulated housing fund and Party B shall pay the service fee to Party A, as stipulated in the Contract and the Attachments, of the remainder of labor contract term in lump sum.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>违约后的合同解除
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Article 22 Rescission of this Contract after Breach  </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>任何一方违反本合同的约定超过三十日仍未改正的，另一方有权书面通知对方解除本合同，本合同自书面通知发出之日起即行解除。
+
+
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>If either party is in violation of the provisions of this Contract for more than 30 days without rectification, the other party shall have the right to rescind this Contract by giving a written notice, and this Contract shall be rescinded upon the issuance of such written notice.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>第六章	附则
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Chapter 6 Supplementary Provisions
+
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>服务期的约定
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Article 23 Stipulation on Service Term</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>乙方为甲方员工提供专项培训费用，对其进行专业技术培训的，可以与其订立协议，依法约定服务期和违约金。
+
+
+
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg> If Party B has provided any special training fund to Party A’s Staff and conducted any professional and technical training, it may conclude an agreement with Party A’s staff stipulating service term and penalty in accordance with law.
+
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>未创设第三方权利
+
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Article 24 No Creation of Any Right for Any Third Party </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>本合同的任何条款并未被用于、或被解释为向第三方提供和创设使该第三方得到受益的权利。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Any article in this Contract shall not be used or interpreted as providing or creating any beneficial rights to any third party. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>前述第三方包括但不限于甲方员工。
+
+
+
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Such third party includes but is not limited to Party A’s Staff.
+
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>双方约定的其他事宜
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Article 25 Other Issues Agreed upon by the Two Parties</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>25.1 若由甲方支付甲方员工的工资的，一般应由甲方代扣代缴甲方员工的个人所得税，另有约定的除外。
+
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>
+If the pay of Party A’s Staff is distributed by Party A, Party A shall withhold and pay individual income tax of such staff unless otherwise agreed.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>25.2乙方解除或终止本合同的，应提前六十日书面通知甲方。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Party B shall notify Party A in writing, 60  days in advance, to rescind or terminate this Contract. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>乙方解除或终止本合同而将甲方员工退回甲方的，或乙方曾使用的甲方员工仍在劳动合同期内的，则乙方应按月向甲方支付本合同解除时乙方使用或曾使用且仍在劳动合同期内的所有甲方员工的工资、社会保险、住房公积金，直至该甲方员工和甲方的劳动合同期满可终止为止；并根据劳动合同期满可终止时依照甲方员工工作年限应当向甲方支付（额外）退回补偿。</seg></tuv>
+<tuv xml:lang="en-US"><seg>If Party B rescinds or terminates this Contract and return Party A’s Staff, or Party A’s Staff previously returned by Party B are still in the labor contract term upon rescission or termination of this Contract, Party B shall pay to Party A, on a monthly basis, the pay, social insurances and accumulated housing fund of all Party A’s Staff serving Party B or having previously served Party B but still in the labor contract term till the Labor Contract between Party A’s Staff and Party A can lawfully expire. Party B shall also pay (additional) return compensation according to years of service of Party A’s Staff upon lawful expiration of their labor contract. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>前述费用，甲方可以要求乙方一次性支付。
+
+
+
+
+
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>For the above payment, Party A may request Party B to pay in lump sum.
+
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>本合同未尽事宜
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Article 26 Issues Not Addressed in Detail in This Contract  </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>本合同在履行过程中如发现有未尽事宜，应由甲、乙双方依法律另行订立补充约定作为本合同的附件。
+
+
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Supplementary agreements as attachments of this Contract shall be reached in conformity with law with regard to issues not addressed in detail in this Contract during implementation.
+
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>争议的解决
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Article 27 Settlement of Disputes </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>甲、乙双方在履行本合同过程中发生的任何争议，均应由双方友好协商解决；协商不成的，可提交中国国际经济贸易仲裁委员会上海分会仲裁。
+
+
+
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Any dispute arising from implementation of this Contract between the two parties shall be settled through friendly consultation. If such effort fails, the dispute shall be submitted to Shanghai Branch of China International Economic and Trade Arbitration Commission for arbitration.
+
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>合同的生效
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Article 28 Effective Date of This Contract  </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>本合同由甲、乙双方于[ ]年[ ]月[ ]日在上海签署，并自[ ]年[ ]月[ ]日起生效。
+
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>This Contract is signed by both parties on the day of [ ] in Shanghai and shall come into effect as of the date of _______.
+
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>合同的变更
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Article 29 Modification of This Contract  </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>除本合同另有约定外，任何一方需在合同期内变更本合同的，均应提前三十日以书面形式通知对方，另一方收到通知后三十日内，双方应就变更条款达成一致；如逾期双方仍不能达成一致的，本合同原条款应继续有效，双方必须继续履行。
+
+
+
+
+
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>During the contract term, unless otherwise provided by this Contract, either party shall notify the other party in writing 30 days in advance if it intends to modify this Contract. Within 30 days after the other party receives the notification, the two parties shall reach a consensus with respect to the modification. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>完整的合同和可分割性
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>If such effort fails, the original articles of this Contract shall remain valid and be implemented by both parties.
+
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>本合同以及本合同的所有附件，构成甲、乙双方之间所达成的完整的合同。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Article 30 Entirety and Severability  This Contract and all Attachments hereto constitute the entire contract between the two parties. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>本合同或附件任何条款的不合法或无效，不应影响本合同和附件任何其他条款的有效性。
+
+
+
+
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>The unlawfulness or invalidity of any provision of this Contract or the Attachments hereto shall not affect the validity of any other provisions of this Contract or the Attachments hereto.
+
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>政策性调整
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Article 31 Necessary Adjustment Due to Regulatory Changes  </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>甲、乙双方理解并同意：如果国家和/或上海市就《劳动合同法》有规范性文件实施的，本合同和附件应根据前述规范性文件变更。
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Both Party A and Party B understand and accept that in case that any statutory documents relating to Labor Contract Law stipulated by the State and Shanghai Municipality are implemented, this Contract and its Attachments shall be modified in accordance with the above documents.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>其他
+
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>Article 32 Miscellaneous </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>本合同一式二份，双方各持一份为凭，具有同等效力。</seg></tuv>
+<tuv xml:lang="en-US"><seg>This Contract is prepared in duplicate, with each party holding one original with the same effect. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>本合同如由中文和外文书就，两种文本如有不一致，以中文文本为准。
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>This Contract is prepared in both Chinese and English versions. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg/></tuv>
+<tuv xml:lang="en-US"><seg>In case of any discrepancy between the two versions, the Chinese version shall prevail.
+</seg></tuv>
+</tu>
+</body>
+</tmx>
